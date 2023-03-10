@@ -10,7 +10,7 @@ The objectives for the calculator
 3. Subtract 
 5. Divide
 6. Multiple 
-7. Store atleast answers in an array 
+7. Store atleast 10 answers in an array 
 8. Ability to clear the array 
 
 * Only user defined functions and prototypes, main() function should only call the required functions and print out the answer. 
